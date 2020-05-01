@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wireless", "Wireless\Wireless.csproj", "{78C4603E-453C-43E8-A4CA-2A2205E17D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C4603E-453C-43E8-A4CA-2A2205E17D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C4603E-453C-43E8-A4CA-2A2205E17D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C4603E-453C-43E8-A4CA-2A2205E17D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C4603E-453C-43E8-A4CA-2A2205E17D96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C6470D-9796-4AB3-A8CC-6318517A6B9C}
+	EndGlobalSection
+EndGlobal
